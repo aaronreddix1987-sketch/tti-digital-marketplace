@@ -1,6 +1,7 @@
-# tti-digital-marketplace
-Total Transformation Inc digital marketplace — ebooks, apps, AI admissions, projects. Linked to go-live whiteboard.
+# TTI Digital Marketplace
 
-## Current operating standard
+This repo is a redirect. The live store is:
 
-See [GROWTH_SYSTEM.md](GROWTH_SYSTEM.md) for the evidence-based product, channel, checkout, fulfillment, and measurement gates used for marketplace deployment.
+https://aaronreddix1987-sketch.github.io/
+
+Library: https://aaronreddix1987-sketch.github.io/ebooks.html
